@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="color_foc">#aa11ff11</drawable>
+    <drawable name="color_pre">#aa22ff22</drawable>
+    <drawable name="color_def">#aa00ff00</drawable>    
+</resources>
